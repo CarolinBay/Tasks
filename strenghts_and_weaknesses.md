@@ -6,3 +6,4 @@
 # Weaknesses
 
 - schwierige Anfangshürden 
+- viele Daten zum Speichern 
