@@ -5,4 +5,3 @@
 
 # Weaknesses
 
-- schwierige Anfangshürden
