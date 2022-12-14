@@ -6,3 +6,4 @@
 # Weaknesses
 
 - schwierige Anfangshürden 
+- große Speichermenge 
