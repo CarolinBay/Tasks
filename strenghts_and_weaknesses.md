@@ -4,3 +4,5 @@
 - einfache Zusammenarbeit mit anderen 
 
 # Weaknesses
+
+- schwierige Anfangshürden
