@@ -1,6 +1,6 @@
 # Strengths 
 
 - speichern jegliche Zwischenstände ab
-- einfache Zusammenarbeit mit anderen
+- einfache Zusammenarbeit mit anderen 
 
 # Weaknesses
